@@ -1,1 +1,25 @@
+The uncommon journey and data science
+
+With hindsight and after two prestigious masters degrees (one in business, one in public affairs), I do not believe our global eductation system 
+to be any good. It is obvious that competitive learning environments tend to teach students how to handle themselves in a pseudo-challenging 
+situation, and provides them with some reflexes for problem solving. Fun fact is, life is a competitive learning environment, and in the end 
+a curious worker from the age of 18 will reach their 25th birthday with more knowledge and insight than a "stellar" student from a top university.
+
+The reasons have been explained in details long before I was born (I recommand reading the works of Christopher Lasch as a starter). In any case,
+I consider myself an historian and a philosopher, because I spent countless hours since childhood reading and thinking about history, both 
+historical content and theories about the field in itself and its role, and because I have spent almost as many hours reading about some specific 
+problems in both ancient and modern philosophy and have developped a philosophical system of my own. I am simply uninpressed by anyone hiding
+behind a degree, however grandiose, and I always evaluate people in the light of their work and ideas.
+
+For some reason I tend to be interested by almost any subjects : physics, chemistry, military strategy, biology, public policies, astronomy, international relations, finance... It however impossible to work on everything at the same time. Fortunatly, at their current level of 
+developpment, nearly all fields rely more and more on massive use of data. Since the logics of algorithms and the rich architectural world of computer science havealways attracted me, and since I tend to feel at ease with mathmatical concepts, I'm more than happy to have engaged 
+in a path that may allow me to contribute to progress in several fields over the years.
+
+In my approach to data science I try to include the hollistic aspect of my interests, and I am not afraid to explore in depth contiguous subjects
+such as infrastructures, system administration, first principles of computers, networking, the critical theory of the mathematics behind statistical
+learning... depending on the free time I have at the moment. 
+
+For those reasons I am open to a wide range of data science projects and I really enjoy discussing both contiguous fields or complitely different
+ones as a way to improve creativity both at work and outside. 
+
 
